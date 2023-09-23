@@ -1,11 +1,10 @@
 {
   "domain": "lifesmart",
   "name": "Lifesmart",
-  "documentation": "https://github.com/ALITECHLAB/lifesmart-home-assistant",
   "requirements": [],
   "dependencies": [],
   "codeowners": [
-    "@skyzhishui"
+    "@skan0376"
   ],
   "version": "22.12.25"
 }
